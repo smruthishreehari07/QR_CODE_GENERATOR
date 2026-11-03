@@ -15,6 +15,7 @@ Custom filenames — choose a name for your output image.
 PNG output — save generated QR codes as image files.
 Automatic extension handling — append .png when the filename doesn't already have that extension.
 Simple CLI — no complicated setup or graphical interface required.
+
 🛠️ Tech Stack
 Technology	Purpose
 Python 3	Core application logic
