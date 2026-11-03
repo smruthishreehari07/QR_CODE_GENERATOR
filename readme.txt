@@ -5,7 +5,6 @@ A lightweight, beginner-friendly Python CLI application that converts URLs or te
 Built with: Python · qrcode · Pillow
 
 📌 Overview
-
 This project demonstrates how to build a practical Python utility using user input, string manipulation, conditional logic, and an external image-generation library.
 Enter your content, choose a filename, and generate a QR code in seconds.
 
