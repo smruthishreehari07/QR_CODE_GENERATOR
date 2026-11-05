@@ -16,14 +16,12 @@ Automatic extension handling — append .png when the filename doesn't already h
 Simple CLI — no complicated setup or graphical interface required.
 
 🛠️ Tech Stack
-Technology	Purpose
-Python 3	Core application logic
-qrcode	QR code generation
-Pillow	Image processing and PNG output
-Git & GitHub Version control and project hosting
+Python 3 - Core application logic
+qrcode - QR code generation
+Pillow - Image processing and PNG output
+Git & GitHub Version - control and project hosting
 
 💻 Example
-text
 Enter the URL: https://github.com
 Enter the filename: github
 QR code saved as github.png
