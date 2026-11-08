@@ -14,7 +14,7 @@ PNG output — save generated QR codes as image files.
 Automatic extension handling — append .png when the filename doesn't already have that extension.
 Simple CLI — no complicated setup or graphical interface required.
 
-🛠️ Tech Stack
+Tech Stack
 Python 3 - Core application logic
 qrcode - QR code generation
 Pillow - Image processing and PNG output
