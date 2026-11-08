@@ -3,7 +3,7 @@ Python QR Code Generator
 A lightweight, beginner-friendly Python CLI application that converts URLs or text into QR code images and saves them as PNG files.
 Built with: Python · qrcode · Pillow
 
-📌 Overview
+Overview
 This project demonstrates how to build a practical Python utility using user input, string manipulation, conditional logic, and an external image-generation library.
 Enter your content, choose a filename, and generate a QR code in seconds.
 
