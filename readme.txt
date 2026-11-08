@@ -20,7 +20,7 @@ qrcode - QR code generation
 Pillow - Image processing and PNG output
 Git & GitHub Version - control and project hosting
 
-💻 Example
+Example
 Enter the URL: https://github.com
 Enter the filename: github
 QR code saved as github.png
