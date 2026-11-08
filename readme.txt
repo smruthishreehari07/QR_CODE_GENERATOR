@@ -7,7 +7,7 @@ Overview
 This project demonstrates how to build a practical Python utility using user input, string manipulation, conditional logic, and an external image-generation library.
 Enter your content, choose a filename, and generate a QR code in seconds.
 
-✨ Features
+Features
 Instant QR generation — convert URLs or text into QR codes.
 Custom filenames — choose a name for your output image.
 PNG output — save generated QR codes as image files.
