@@ -25,6 +25,7 @@ Enter the URL: https://github.com
 Enter the filename: github
 QR code saved as github.png
 
+
 The generated github.png image will be saved in the application's current working directory.
 Scan the image using your phone's camera or a QR code reader to access the encoded content.
 
